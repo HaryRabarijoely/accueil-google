@@ -1,0 +1,20 @@
+ul
+{
+    font-family: "comic sans MS", "arial black", serif; 
+} 
+ul
+{
+	font-size: em; 
+}
+p
+{
+	text-align: center;
+}
+figure
+{
+	text-align: center;
+}
+ul{
+    margin: -5px 10px -5px 0px;
+    float: left;
+    }
